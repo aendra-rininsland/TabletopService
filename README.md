@@ -1,3 +1,5 @@
+# DEPRECIATED: PLEASE USE [times/angular-tabletop](http://www.github.com/times/angular-tabletop) instead!
+
 # TabletopService — an AngularJS service for Tabletop.js
 
 ## Usage:
